@@ -17,7 +17,7 @@ A smpile food application designed to simplify the cooking process by providing 
 <table>
   <tr> 
     
-   <td><imag src="https://github.com/Ahmed-Srhan/Food-App/assets/106891451/35b450c4-42ce-4e17-abd0-1901cdd2b416" width=270 heigh=480></td>
+    <td><img src="https://github.com/Ahmed-Srhan/Food-App/assets/106891451/35b450c4-42ce-4e17-abd0-1901cdd2b416" width=270 heigh=480></td>
     <td><img src="https://github.com/Ahmed-Srhan/Food-App/assets/106891451/62f0d888-311b-454e-b46d-2940a057eca4" width=270 height=480></td>
     <td><img src="https://github.com/Ahmed-Srhan/Food-App/assets/106891451/2d518a99-c705-4ada-92cf-f5f16e218f32" width=270 height=480></td>
     <td><img src="https://github.com/Ahmed-Srhan/Food-App/assets/106891451/62004fab-64e7-47cd-b63b-c63aba3dfad9" width=270 height=480></td>
