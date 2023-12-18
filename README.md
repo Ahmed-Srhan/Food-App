@@ -10,7 +10,7 @@ A smpile food application designed to simplify the cooking process by providing 
 - Navigation Component
 - Room DataBase to save meals in local database.
 - view binding instead of inflating views manually view binding will take care of that.
-- Glade to load images from internet.
+- Glide to load images from internet.
 - CardView, RecyclerView
 
 ## Preview
